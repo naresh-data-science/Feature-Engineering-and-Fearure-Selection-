@@ -29,7 +29,7 @@ Since Data Preprocessing was one of the most challenging task for many of the ML
 
 ## Screenshots
 
-![App Screenshot](https://static.javatpoint.com/tutorial/machine-learning/images/feature-engineering-for-machine-learning2.png)
+![App Screenshot](https://jonathantansw.com/img/ensemble_pipeline.png)
 
 
 ## Feature selection for structure data
